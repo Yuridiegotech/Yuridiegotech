@@ -1,4 +1,4 @@
-# 💫 Sobre Mim:
+# 💫 Olá! Eu sou o Diego Yuri:
 Apaixonado por Tecnologia, iniciei meu sonhos ainda jovem, desde criança já tinha anseio por eu mesmo "Criar" aqueles jogos, no qual jogava. Após terminar o ensino Médio, consegui minha Bolsa do Prouni no Salesiano, e desde então, venho ampliando meus conhecimentos.<br>Iniciei a Carreira Profissional na Empresa Consys, no qual pude aprender mais sobre SQL, Testes, Trabalho em Grupo, Atendimento ao Cliente, Resolução de Problemas, Criação de Bases de Conhecimentos e Afins.<br>No percurso estudantil, aprimorei meus conhecimentos basicos em diversas areas como, CSS, HTML5, Javascript, NODEJS, MYSQL. Hoje em Dia, estou aprimorando meus conhecimentos na area de teste e qualidade de software (QA) e me aventurando na linguagem Java
 
 
