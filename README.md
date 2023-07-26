@@ -20,4 +20,3 @@ Apaixonado por Tecnologia, iniciei meu sonhos ainda jovem, desde criança já ti
 ---
 [![](https://visitcount.itsvg.in/api?id=Yuridiegotech&icon=2&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
